@@ -45,5 +45,5 @@ ALL SETS FOR CODING NOW
 - The lights are green and shweta is all sets for coding now 
 - shweta will use a jupyter notebook
 - The Jupyter notebook is an open -source web application that allows you to create and share documents that containts live code , equations , visualizations and narrative text.
-- This will make it  easy  for shweta to documents and use the code as an a notebook.![image](https://github.com/shwet369/Dragon-Real-Estate-Project-/assets/136867631/ab3e4bb1-b3b2-4180-8fdf-bbd816968ad5)
+- This will make it  easy  for shweta to documents and use the code as an a notebook.![image](https://github.com/shwet369/Dragon-Real-Estate-Project-/assets/136867631/14e4bf47-ebba-4f93-8339-b2ac53ffb9d8)
 
